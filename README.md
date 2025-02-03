@@ -84,11 +84,5 @@ Contributions are welcome! If you find bugs or have suggestions, feel free to op
 
 ---
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
 ## Contact
 For questions or support, contact me at: [golaboffsec@gmail.com](mailto:golaboffsec@gmail.com).
-
